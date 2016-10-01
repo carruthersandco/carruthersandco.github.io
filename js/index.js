@@ -6,15 +6,23 @@ function start() {
 }
 
 var insult = [
-  "omnishambles","dingus","egg","foetus", "fart badger", "muppet", "nuff nuff","galah","nubbin","dingbat","dufus","dingleberry","wally","dunderhead","eyesore","twit","meathead", "nugget","nerf herder",
+  "omnishambles","dingus","egg","foetus", "fart badger", "muppet", "nuff nuff","galah","nubbin","dingbat","dufus","dingleberry",
+  "wally","dunderhead","eyesore","twit","meathead", "nugget","nerf herder","onion",
+  "plum","cabbage","rocket-jockey","milquetoast","creambag","bong","chuff","butterknife","lemon","pilchard","swine",
 ]
 
 var suggestion = [
-  "Step on an upturned plug","Kindly die","Suck an exhaust pipe","Take a long walk off a short pier","Stop wasting oxygen","Go make toast in a bathtub","Go play in traffic","Go headbutt a table saw", "Eat a cold pie","Get in the bin", "Get in the sea","Gas yourself","Jog on","Eat a large cactus", "Kiss a ceiling fan", 
+  "Step on an upturned plug","Kindly die","Suck an exhaust pipe","Take a long walk off a short pier","Stop wasting oxygen",
+  "Go make toast in a bathtub","Go play in traffic","Go headbutt a table saw", "Eat a cold pie","Get in the bin", "Get in the sea",
+  "Gas yourself","Jog on","Eat a large cactus", "Kiss a ceiling fan", "Die in a fire","Face your inadequacies","Grow a friend",
+  "Eat my shorts","Suck on a trumpet","Move to Chernobyl","Marry your aunt","I hope your stocks crash","Chew concrete","Kiss a jellyfish",
+  "Pash a stingray","Draw your pension","Quit life","Give it up",
 ]
 
 var verb =[
-  "brown-nosing","double-dipping","useless","ignorant","dense","bog-licking","flip-flopping","unimaginable","idle-minded","terminal", "archaic","abominable","inept","fermenting", "ruttish", "glistening", "raging", "scruffy-looking", "horrendous",
+  "brown-nosing","double-dipping","useless","ignorant","dense","bog-licking","flip-flopping","unimaginable","idle-minded","terminal",
+  "archaic","abominable","inept","fermenting", "ruttish", "glistening", "raging", "scruffy-looking", "horrendous","futureless",
+  "ignoble","nebbish","rudderless","ineffectual","feckless","clownish","unwanted","cooked","cracked","musty",
 ]
 
 function writeInsult() {
