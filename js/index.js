@@ -10,7 +10,7 @@ var insult = [
 ]
 
 var suggestion = [
-  "Step on an upturned plug","Kindly die","Suck an exhaust pipe","Take a long walk off a short pier","Stop wasting oxygen","Go make toast in a bathtub","Go play in traffic","Go headbutt a table saw", "Eat a cold pie","Get in the bin", "Get in the sea","Gas yourself","Jog on","Eat a large cactus"
+  "Step on an upturned plug","Kindly die","Suck an exhaust pipe","Take a long walk off a short pier","Stop wasting oxygen","Go make toast in a bathtub","Go play in traffic","Go headbutt a table saw", "Eat a cold pie","Get in the bin", "Get in the sea","Gas yourself","Jog on","Eat a large cactus", "Kiss a ceiling fan", 
 ]
 
 var verb =[
