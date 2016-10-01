@@ -6,7 +6,7 @@ function start() {
 }
 
 var insult = [
-  "omnishambles","dingus","egg","foetus", "fart badger", "muppet", "nuff nuff","galah","nubbin","dingbat","dufus","dingle berry","wally","dunderhead","eyesore","twit","meathead",
+  "omnishambles","dingus","egg","foetus", "fart badger", "muppet", "nuff nuff","galah","nubbin","dingbat","dufus","dingleberry","wally","dunderhead","eyesore","twit","meathead",
 ]
 
 var suggestion = [
