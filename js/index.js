@@ -6,7 +6,7 @@ function start() {
 }
 
 var insult = [
-  "omnishambles","dingus","egg","foetus", "fart badger", "muppet", "nuff nuff","galah","nubbin","dingbat","dufus","dingleberry","wally","dunderhead","eyesore","twit","meathead",
+  "omnishambles","dingus","egg","foetus", "fart badger", "muppet", "nuff nuff","galah","nubbin","dingbat","dufus","dingleberry","wally","dunderhead","eyesore","twit","meathead", "nugget","nerf herder",
 ]
 
 var suggestion = [
@@ -14,7 +14,7 @@ var suggestion = [
 ]
 
 var verb =[
-  "brown-nosing","double-dipping","useless","ignorant","dense","bog-licking","flip-flopping","unimaginable","idle-minded","terminal", "archaic","abominable","inept","fermenting", "ruttish", "glistening", "raging"
+  "brown-nosing","double-dipping","useless","ignorant","dense","bog-licking","flip-flopping","unimaginable","idle-minded","terminal", "archaic","abominable","inept","fermenting", "ruttish", "glistening", "raging", "scruffy-looking", "horrendous",
 ]
 
 function writeInsult() {
