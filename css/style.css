@@ -14,6 +14,18 @@ body {
   font-family: 'Rubik', sans-serif;
 }
 
+#logo {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 550px;
+  padding-bottom: 20px;
+}
+
 .container {
   display:flex;
   flex-direction: row;
@@ -44,6 +56,39 @@ p {
   font-feature-settings: "liga" 0;
 }
 
+#twitter {
+  padding-top:70px;
+}
+
+#twitter p, .footer p {
+  font-size: 1.5em;
+  line-height: 2em;
+  color: #8a2525;
+  text-align: center;
+  font-feature-settings: "liga" 0;
+}
+
+.footer p {
+  text-shadow: 0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270,0 0 4px #ed7270;
+}
+
+.twitter-icon {
+  height: 1em;
+  display: inline;
+
+}
+
+#twitter p a, .footer p a {
+  color: #8a2525;
+  text-decoration: none;
+}
+
+#twitter p a:hover, .footer p a:hover {
+  text-decoration: none;
+  border-bottom: 2px dotted #fff;
+  color: #fff;
+}
+
 .button {
   padding: 10px;
   background-color: #8a2525;
@@ -51,4 +96,8 @@ p {
   color: #ed7270;
   font-size: 1.5em;
   cursor: pointer;
+}
+
+.hide {
+  display: none;
 }
