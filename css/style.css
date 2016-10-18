@@ -108,3 +108,16 @@ p {
 .hide {
   display: none;
 }
+
+@media screen and (max-width: 800px) {
+
+  body {
+    background-size: 10px 10px;
+  }
+
+  p {
+    font-size: 3em;
+    line-height: 2em;
+  }
+
+}
