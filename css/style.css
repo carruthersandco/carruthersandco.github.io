@@ -75,18 +75,19 @@ p {
 .twitter-icon {
   height: 1em;
   display: inline;
-
 }
 
 #twitter p a, .footer p a {
   color: #8a2525;
   text-decoration: none;
+  transition: ease 0.3s;
 }
 
 #twitter p a:hover, .footer p a:hover {
   text-decoration: none;
   border-bottom: 2px dotted #fff;
   color: #fff;
+  transition: ease 0.3s;
 }
 
 .button {
@@ -96,6 +97,12 @@ p {
   color: #ed7270;
   font-size: 1.5em;
   cursor: pointer;
+  transition: ease 0.3s;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #ed7270;
 }
 
 .hide {
