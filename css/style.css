@@ -120,4 +120,12 @@ p {
     line-height: 2em;
   }
 
+  .button {
+    font-size: 2em;
+  }
+
+  #twitter p, .footer p {
+    font-size: 2em;
+  }
+
 }
